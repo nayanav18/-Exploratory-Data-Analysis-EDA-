@@ -25,5 +25,3 @@ The aim is to uncover meaningful patterns and relationships in passenger data, w
 - **Age Distribution**: Majority of passengers were between 20–40 years old.  
 - **Fare Analysis**: Most fares were below $50, but outliers existed with fares > $500.  
 
-## 📂 Repository Structure
-
